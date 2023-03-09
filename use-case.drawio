@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T17:01:13.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CI7iPoIpw-K-r8dnOxG8" version="21.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-09T17:15:01.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xM7qo5wlOKFPsHxUAg1-" version="21.0.4" type="github" pages="7">
   <diagram id="Ke_tGYE6mKWnq4EgIzKF" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Et8rr2Vymc0uXJ_l0Ip" name="Page-2">
-    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,25 +56,25 @@
           <mxGeometry x="610" y="295" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-5" value="Tìm xe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="570" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-6" value="Quản lý hồ sơ cá nhân" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="250" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-7" value="Xem lịch sử thuê xe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="140" height="70" as="geometry" />
+          <mxGeometry x="150" y="295" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-8" value="Đặt xe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="440" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-11" value="Báo cáo lỗi(lỗi xe, dịch vụ của đại lý) cho hệ thống quản lý" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="460" width="150" height="90" as="geometry" />
+          <mxGeometry x="235" y="410" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-12" value="Đánh giá xe của đại lý" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="480" width="140" height="70" as="geometry" />
+          <mxGeometry x="70" y="440" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AT6vvRlZv7gJUcDthvIP-13" value="Hủy đặt xe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="500" width="140" height="70" as="geometry" />
+        <mxCell id="AT6vvRlZv7gJUcDthvIP-13" value="S" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="470" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AT6vvRlZv7gJUcDthvIP-1" target="AT6vvRlZv7gJUcDthvIP-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-23" value="Thanh&amp;nbsp; toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="385" y="515" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AT6vvRlZv7gJUcDthvIP-24" value="Includes" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AT6vvRlZv7gJUcDthvIP-8" target="AT6vvRlZv7gJUcDthvIP-23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
